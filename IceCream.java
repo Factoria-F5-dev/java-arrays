@@ -8,9 +8,9 @@ public class IceCream {
             ¿Cuántas bolas de helado quieres?: 3
 
             ¡Perfecto! Ahora escoge de que sabor quieres cada helado: 
-                0. Chocolate
-                1. Fresa
-                2. Vainilla
+                0. ...
+                1. ...
+                2. ...
 
             ¡Gracias por tu orden! Has pedido los siguientes sabores:
                 0. Chocolate
